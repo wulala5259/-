@@ -81,6 +81,9 @@ cf|600|3
 [心理测评](http://www.psy.com.cn/vue/school/304089)
 
 
+## 插入本地图片
 
+**如果插入的图片为本地资源，无法在github上显示，需要将本地图片上传并生成网络url地址**
+[wallpaper](https://sm.ms/image/kUDTO38RCplGZfc][img]https://s2.loli.net/2022/03/10/kUDTO38RCplGZfc.png[/img][/url])
 
 
