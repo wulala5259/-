@@ -68,5 +68,10 @@ cf|600|3
      return 0;
   }
 ```
+```bash
+   sudo su
+   echo "输出"
+   cd "path"
+```
 
 
