@@ -59,7 +59,14 @@ Csgo|2000|1
 lol|1500|2
 cf|600|3
 
+## 插入代码片段
 
-
+```c
+  #include <stdio.h>
+  int main(){
+     printf("啦啦啦\n");
+     return 0;
+  }
+```
 
 
