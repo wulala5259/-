@@ -78,7 +78,7 @@ cf|600|3
 
 [Github](https://github.com "跳转到github")
 
-[心里测评](http://www.psy.com.cm/vue/school/304089)
+[心理测评](http://www.psy.com.cn/vue/school/304089)
 
 
 
